@@ -30,7 +30,7 @@ Implemented functions include.
   sh build_app.sh apps/tuya-iotos-embeded-demo-wifi-ble-pm2_5-sensor tuya-iotos-embeded-demo-wifi-ble-pm2_5-sensor 1.0.0 
   ```
 
-+ Firmware burn-in license information please refer to: [Wi-Fi + BLE series module burn-in license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and- authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
++ Firmware burn-in license information please refer to: [Wi-Fi + BLE series module burn-in license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and-authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
 
 
 
